@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barbers-template/static/css/main.a209ef6d.css",
-    "main.js": "/barbers-template/static/js/main.ea857349.js",
+    "main.js": "/barbers-template/static/js/main.b74ec12a.js",
     "static/js/787.b7db08e3.chunk.js": "/barbers-template/static/js/787.b7db08e3.chunk.js",
     "static/media/about-us-staff-three.jpg": "/barbers-template/static/media/about-us-staff-three.7a947b0bc64953546293.jpg",
     "static/media/gallery-preview-two.jpg": "/barbers-template/static/media/gallery-preview-two.7e50f355ed89bac9523f.jpg",
@@ -18,11 +18,11 @@
     "static/media/about-us-staff-one.jpg": "/barbers-template/static/media/about-us-staff-one.aed6820275ea02e57f7d.jpg",
     "index.html": "/barbers-template/index.html",
     "main.a209ef6d.css.map": "/barbers-template/static/css/main.a209ef6d.css.map",
-    "main.ea857349.js.map": "/barbers-template/static/js/main.ea857349.js.map",
+    "main.b74ec12a.js.map": "/barbers-template/static/js/main.b74ec12a.js.map",
     "787.b7db08e3.chunk.js.map": "/barbers-template/static/js/787.b7db08e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a209ef6d.css",
-    "static/js/main.ea857349.js"
+    "static/js/main.b74ec12a.js"
   ]
 }
