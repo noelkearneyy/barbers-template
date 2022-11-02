@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/barbers-template/static/css/main.a209ef6d.css",
+    "main.js": "/barbers-template/static/js/main.ea857349.js",
+    "static/js/787.b7db08e3.chunk.js": "/barbers-template/static/js/787.b7db08e3.chunk.js",
+    "static/media/about-us-staff-three.jpg": "/barbers-template/static/media/about-us-staff-three.7a947b0bc64953546293.jpg",
+    "static/media/gallery-preview-two.jpg": "/barbers-template/static/media/gallery-preview-two.7e50f355ed89bac9523f.jpg",
+    "static/media/gallery-preview-four.jpg": "/barbers-template/static/media/gallery-preview-four.c05bd28b788131136077.jpg",
+    "static/media/homepage-intro.jpg": "/barbers-template/static/media/homepage-intro.03f1f75e5fb74ff4352e.jpg",
+    "static/media/gallery-preview-one.jpg": "/barbers-template/static/media/gallery-preview-one.de19027168c39c1c79f1.jpg",
+    "static/media/about-us-staff-four.jpg": "/barbers-template/static/media/about-us-staff-four.fd83e4fcc69cd60f9a1f.jpg",
+    "static/media/homepage-square-img-two.jpg": "/barbers-template/static/media/homepage-square-img-two.07307bd4d40b8357962f.jpg",
+    "static/media/gallery-preview-three.jpg": "/barbers-template/static/media/gallery-preview-three.15541c752493d7b73cb6.jpg",
+    "static/media/homepage-square-img-one.jpg": "/barbers-template/static/media/homepage-square-img-one.f1bde1b5f797352cd332.jpg",
+    "static/media/about-us-header.jpg": "/barbers-template/static/media/about-us-header.2b76f1e4659c196aa949.jpg",
+    "static/media/about-us-staff-two.jpg": "/barbers-template/static/media/about-us-staff-two.e07be1ddb1c5d872d37d.jpg",
+    "static/media/homepage-square-img-three.jpg": "/barbers-template/static/media/homepage-square-img-three.e752eb6f5e53adcb32d0.jpg",
+    "static/media/about-us-staff-one.jpg": "/barbers-template/static/media/about-us-staff-one.aed6820275ea02e57f7d.jpg",
+    "index.html": "/barbers-template/index.html",
+    "main.a209ef6d.css.map": "/barbers-template/static/css/main.a209ef6d.css.map",
+    "main.ea857349.js.map": "/barbers-template/static/js/main.ea857349.js.map",
+    "787.b7db08e3.chunk.js.map": "/barbers-template/static/js/787.b7db08e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a209ef6d.css",
+    "static/js/main.ea857349.js"
+  ]
+}
